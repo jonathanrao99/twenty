@@ -10,7 +10,6 @@ const MARKETPLACE_QUERY = `
     findManyMarketplaceApps {
       id
       name
-      description
       author
       sourcePackage
       icon
